@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**marcfranquesa/marcfranquesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> Hey there, I'm Marc! 
+    <a href="https://www.linkedin.com/in/marc-franquesa-0015661b2/">
+        <img height="30" align="right" src="https://img.shields.io/badge/-MarcFranquesa-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+    </a>
+</h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mathematics & Data Science student @ UPC that likes to write code.
+<ul>
+  <li>🔭 Teaching assistant @ UPC</li>
+  <li>💬 Helping out at <a href="https://datastudents.netlify.app">datastudents</a></li>
+  <li>🤼 Wrestling & BJJ enthusiast</li>
+  <li>👾 Looking to contribute to projects I find meaningful</li>
+</ul>
